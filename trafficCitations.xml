@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!---->
+<trafficCitations>
+  <drivingTicket>
+    <!--NEW CITATION-->
+    <!--Vehicle Information-->
+    <offenceDate>26-00-2022</offenceDate>
+    <offenceTime>16:00:32</offenceTime>
+    <licenceNumber>29GEF477</licenceNumber>
+    <occupantsName>Darrel Sampson</occupantsName>
+    <vehicleState>SAS</vehicleState>
+    <vehicleType>PASSENGER</vehicleType>
+    <vehicleColour>Black</vehicleColour>
+    <streetName>141 Innocence Blvd, Crusade Rd, Davis Los Santos</streetName>
+    <houseNumber>141</houseNumber>
+    <offenceArea>Davis</offenceArea>
+    <!--Officer Information-->
+    <officerName>Kaarlo</officerName>
+    <officerRank>Police Sergeant I</officerRank>
+    <officerNumber>981</officerNumber>
+    <officerDivision>CENTRAL BUREAU</officerDivision>
+    <officerAgency>Los Santos Police Department</officerAgency>
+    <!--Violation Information-->
+    <violationOf>10-15 Mph Over</violationOf>
+    <amountDue>200</amountDue>
+    <officerComments>No comment from officer</officerComments>
+  </drivingTicket>
+</trafficCitations>
